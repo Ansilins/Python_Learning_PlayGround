@@ -14,11 +14,11 @@
 11. Empty Function<br>
 12. Identify Function<br>
 13. Identify Function<br>
-14. Zeros like, ones like, Full like Array
-15. Identity Function
-16. Transppose Function
-17. Unary Operation
-18. Vstack & Hstack
-19. Array Indexing 
-20. Any & All Function
+14. Zeros like, ones like, Full like Array.<br>
+15. Identity Function.<br>
+16. Transppose Function.<br>
+17. Unary Operation.<br>
+18. Vstack & Hstack.<br>
+19. Array Indexing.<br>
+20. Any & All Function.<br>
 </span>
